@@ -1,0 +1,20 @@
+
+│   PASO 1: Conectar a Nodo A                                                    │
+│           TÚ → A: "Soy amigo de B, C, D..."                                    │
+│           A: "No te creo"                                                       │
+│                                                                                 │
+│   PASO 2: Conectar a Nodo B                                                    │
+│           TÚ → B: "Soy amigo de A" (le pasas info de A)                        │
+│           B: "Hmm ok, parece legítimo"                                          │
+│                                                                                 │
+│   PASO 3: Usar B para validarte con A                                          │
+│           TÚ → A: "Mira, B me conoce" (prueba)                                 │
+│           A: "Ah ok, entonces eres legítimo"                                   │
+│                                                                                 │
+│   PASO 4: Repetir con toda la red                                              │
+│           Ahora todos creen que eres parte de la red                           │
+│                                                                                 │
+│   PASO 5: Cuando todos confían en ti...                                        │
+│           "Hey, la cadena real murió, aquí está la nueva"                      │
+│                                                                  
+Este es mi nueva idea! AHHAHAH
